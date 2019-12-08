@@ -22,10 +22,10 @@ When performing independent runs of those algorithms, one could decide whether t
 * `2019gecco-ins1-11run.rds`: one one problem instance (`ins1`) is used for all 11 repetitions, and
 * `2019gecco-ins11-1run.rds`: 11 problems instances are created and each algorithm is executed only once (`1run`) on each instance.
 
-The prefix `2019gecco-` says these data sets are used for the following GECCO '19 paper published by the authors:
+The prefix `2019gecco-` says these data sets are used for the following GECCO '19 papers published by the authors (and collaborators):
 
-* Carola Doerr, Furong Ye, Naama Horesh, Hao Wang, Ofer M. Shir, and Thomas Bäck. Benchmarking Discrete Optimization Heuristics with IOHprofiler. GECCO ‘19
-* Borja Calvo, Ofer M. Shir, Josu Ceberio, Carola Doerr, Hao Wang, Thomas Bäck, and Jose A. Lozano. Bayesian Performance Analysis for Black-Box Optimization Benchmarking. GECCO ‘19
+* Carola Doerr, Furong Ye, Naama Horesh, Hao Wang, Ofer M. Shir, and Thomas Bäck. _Benchmarking Discrete Optimization Heuristics with IOHprofiler_. GECCO ‘19
+* Borja Calvo, Ofer M. Shir, Josu Ceberio, Carola Doerr, Hao Wang, Thomas Bäck, and Jose A. Lozano. _Bayesian Performance Analysis for Black-Box Optimization Benchmarking_. GECCO ‘19
 
 For the complete and up-to-date list of papers that use IOHprofiler, please look [here](https://iohprofiler.github.io/citation).
 
