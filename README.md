@@ -12,7 +12,7 @@ This repository contains several data sets of 12 reference algorithms tested on 
 * (1+10) EA_{r/2,2r}
 * (30,30) vGA
 * RLS
-* EDA (previously called UMDA)
+* UMDA (previously called EDA)
 * gHC
 
 The detailed description of those algorithms can be found [here](https://github.com/IOHprofiler/IOHalgorithm).
