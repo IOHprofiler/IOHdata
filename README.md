@@ -1,5 +1,11 @@
 # IOHdata
 
+## IOHinspector test datasets
+
+In the folder 'IOHinspector', two new example datasets (generated using IOHinspector 0.3.18) can be found: one for single-objective and one for multi-objective optimization
+
+## 'iohprofiler' folder
+
 This repository contains several data sets of 12 reference algorithms tested on the 23 Pseudo-Boolean Optimization (PBO) problems. PBO is ones of the benchmark suite compiled under the framework of __IOHexperimenter__. The 12 reference algorithms are:
 
 * (1+(λ,λ)) GA
@@ -36,3 +42,11 @@ library(IOHanalyzer)
 dsl <- readRDS('path/to/the/downloaded/rds/file')
 dsl
 ```
+
+## 'bbob' folder
+
+This contains some examples of BBOB-files processed using the R-interface of IOHanalzyer
+
+## 'nevergrad' folder
+
+This contains some examples of nevergrad-data processed using the R-interface of IOHanalyzer
